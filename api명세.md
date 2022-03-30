@@ -1,5 +1,8 @@
 # API 명세
-version 0.1
+version 0.2
+
+0.1; 최초 작성
+0.2; ERROR CODE 명시
 
 
 ## /api
