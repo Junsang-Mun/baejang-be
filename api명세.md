@@ -49,3 +49,21 @@ version 0.1
 - 특정 조건과 일치하는 발표 세션 검색
 - 전달: 쿼리조건(발표자/팀, 발표주제 中 하나), 쿼리
 - 리턴: 쿼리와 일치하는 발표 세션(id, 발표자/팀, 발표주제, 발표시간, 발표위치) 혹은 404
+
+
+## ERROR CODE
+
+### 200
+- OK
+
+### 400
+- Bad request
+
+### 401
+- Unauthorized
+
+### 404
+- Not found
+
+### 500
+- Internal Server Error
